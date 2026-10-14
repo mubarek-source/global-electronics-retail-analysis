@@ -2,7 +2,6 @@
 
 SQL and Excel analysis of 62,884 retail records covering sales channels, seasonal demand, and delivery performance.
 
-![Dashboard](screenshots/dashboard.png)
 <img width="932" height="521" alt="Dashboard" src="https://github.com/user-attachments/assets/de89c22d-8e0c-46af-af8c-4a3629faa3ec" />
 
 ## About this project
